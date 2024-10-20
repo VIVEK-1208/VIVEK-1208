@@ -3,9 +3,12 @@ _**Vivek Kumar Bharti - Software Engineer**_
 **Email:** vivekbharti1208@gmail.com
 **Phone:** +91 6206754508
 
+
 _**🧑‍💻 About Me**_
 
 I am a Software Engineering Graduate with a strong foundation in software design, development, and testing. Passionate about leveraging my programming skills and technical knowledge to solve real-world problems. Seeking opportunities to contribute to innovative projects in the field of software development.
+
+
 
 _**🔧 Skills**_
 
@@ -18,6 +21,8 @@ Data Structures & Algorithms (DSA)
 Machine Learning
 
 **Tools:** Git, VS Code
+
+
 
 _**💼 Projects**_
 
@@ -42,10 +47,14 @@ Tech Stack: HTML, CSS, JavaScript, Python
 Integrated a machine learning model for disease prediction.
 Provided a seamless interface for users to input symptoms and receive results.
 
+
+
 _**📫 How to Reach Me**_
 
 Location: Manjhi Tola, Adityapur, Jamshedpur, 831013
 Feel free to reach out via email or connect with me on LinkedIn.
+
+
 
 _**⚡ Fun Fact**_
 
