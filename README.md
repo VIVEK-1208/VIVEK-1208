@@ -10,9 +10,13 @@ I am a Software Engineering Graduate with a strong foundation in software design
 _**🔧 Skills**_
 
 **Languages:** Java, Python, C, C++, JavaScript
+
 **Web Technologies:** HTML, CSS, JavaScript
+
 Data Structures & Algorithms (DSA)
+
 Machine Learning
+
 **Tools:** Git, VS Code
 
 _**💼 Projects**_
