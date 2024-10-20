@@ -18,8 +18,6 @@ _**🔧 Skills**_
 
 Data Structures & Algorithms (DSA)
 
-Machine Learning
-
 **Tools:** Git, VS Code
 
 
