@@ -27,6 +27,7 @@ Machine Learning
 _**💼 Projects**_
 
 **1. E-Commerce Website**
+
 A full-fledged web platform for viewing and ordering tools.
 Tech Stack: HTML, CSS, JavaScript
 
@@ -34,6 +35,7 @@ Built responsive web pages for an intuitive shopping experience.
 Integrated cart and checkout functionalities.
 
 **2. Clone Websites**
+
 Recreated the functionality and design of Zomato.
 Tech Stack: HTML, CSS, JavaScript
 
@@ -41,6 +43,7 @@ Implemented location-based restaurant search.
 Designed UI components similar to Zomato.
 
 **3. Health-Care (Machine Learning)**_
+
 A web-based application that predicts diseases based on symptoms and suggests medicines.
 Tech Stack: HTML, CSS, JavaScript, Python
 
